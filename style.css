@@ -333,6 +333,7 @@ border-radius: 50px;
 }
 .singdivv a:hover{
 color: #ffd447;
+text-decoration: none;
 }
 .singdivx{
     padding-bottom: 10px;
@@ -346,6 +347,7 @@ color: #ffd447;
 }
 .singdivx a:hover{
 color: #ffd447;
+text-decoration: none;
 }
 .singdivs{
     padding-bottom: 10px;
@@ -359,6 +361,7 @@ color: #ffd447;
 }
 .singdivs a:hover{
 color: #ffd447;
+text-decoration: none;
 }
 .tyu a{
 text-decoration: underline;
@@ -396,4 +399,8 @@ font-size: 15px;
     text-decoration-line: underline;
     text-decoration-style: dotted;
     padding-right: 10px;
+}
+.dret a:hover{
+    color: #ffd447;
+    text-decoration: none;
 }
